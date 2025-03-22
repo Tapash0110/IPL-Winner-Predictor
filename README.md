@@ -118,5 +118,4 @@ Key Findings
 3. *Predicted Winner*:
    - The model predicted *Kolkata Knight Riders* as the most likely winner of the 2025 IPL season, based on their simulated performance across various match scenarios.
   
-     
-   Goal is to develop a real-time prediction system to update match outcomes dynamically based on live data.
+   
